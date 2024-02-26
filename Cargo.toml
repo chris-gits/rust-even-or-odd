@@ -1,0 +1,7 @@
+[package]
+name = "even-or-odd"
+version = "1.0.0"
+edition = "2021"
+authors = ["Christian Alexander Marrero"]
+description = "A simple crate for determining whether a number is even or odd."
+license = "MIT"
